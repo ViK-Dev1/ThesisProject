@@ -9,6 +9,6 @@
 <p>Il progetto presente in questa repository è stato sviluppato durante il periodo in cui ho effettuato il mio stage presso l' <b>Università degli Studi di Milano Bicocca</b>. <br> Sulla base delle ricerche effettuate, i paper scientifici analizzati e i risultati degli esperimenti condotti ho steso la mia tesi di laurea triennale (relazione finale) intitolata <b>Un modello ensemble basato su blockchain e reti neurali per la previsione del prezzo di Bitcoin </b>.</p>
 
 ### Struttura della repository:
-- Vikram_Harshit_RelFin_LT_27Ottobre2023: File pdf relativo alla mia tesi (relazione finale) riguardo al progetto sviluppato
-- Vikram_Harshit_slide_LT_24Ottobre2023: File pdf relativo alla presentazione realizzata per la discussione della mia tesi
+- Vikram_Harshit_RelFin_LT_27Ottobre2023: <br> File pdf relativo alla mia tesi (relazione finale) riguardo al progetto sviluppato
+- Vikram_Harshit_slide_LT_24Ottobre2023: <br> File pdf relativo alla presentazione realizzata per la discussione della mia tesi
   
